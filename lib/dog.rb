@@ -2,6 +2,8 @@
 
 class Dog  
 
+# need initialize? 
+
 def name 
   @name
 end
